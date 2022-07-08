@@ -1,13 +1,13 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.3.3/blog.tsx";
 
 blog({
-  title: "Ryan Dahl",
-  author: "Ryan Dahl",
+  title: "Dhivakar Selvakumar",
+  author: "Dhivakar Selvakumar",
   avatar: "./ry.jpg",
   avatarClass: "full",
   links: [
-    { title: "Email", url: "mailto:ry@tinyclouds.org" },
-    { title: "GitHub", url: "https://github.com/ry" },
+    { title: "Email", url: "mailto:selvakumardhivakar@gmail.com" },
+    { title: "GitHub", url: "https://github.com/selvakumardhivakar" },
   ],
   background: "#f9f9f9",
   middlewares: [
